@@ -18,7 +18,7 @@ const Navbar = () => {
             <li><a href="#about">About</a></li>
             <li><a href="#roadmap">Road Map</a></li>
             <li><a href="#tokenomics">Tokenomics</a></li>
-            <li><a href="">Telegram</a></li>
+            <li><a href="https://t.me/JirussicParkPortal">Telegram</a></li>
             <li><a href="https://twitter.com/JirussicParkBSC">Twitter</a></li>
             <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'>Buy on Pancakeswap</button>
           </ul>
