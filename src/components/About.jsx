@@ -1,6 +1,4 @@
 import React from 'react';
-import { SiHiveBlockchain, SiStrapi, SiFsecure } from 'react-icons/si';
-import { VscServerProcess } from 'react-icons/vsc';
 import AboutCard from './AboutCard';
 
 const About = () => {
