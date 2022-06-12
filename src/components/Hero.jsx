@@ -13,10 +13,7 @@ const Hero = () => {
         muted
       />
       <div id="about" className='w-full h-[90%] flex flex-col justify-center items-center text-white px-4 text-center'>
-        <h1></h1>
-        <h1 className='py-2'>
-          <span className='blue'></span> 
-        </h1><br></br>
+<br /><br />
         <p className='text-xl mt-52 py-10 text-black'>
         Jirussic Park is a community-focused, decentralized memecoin on Binance Smart Chain with rewards in BUSD for holding $JP
         </p>
