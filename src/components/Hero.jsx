@@ -1,6 +1,6 @@
 import React from 'react';
 
-import heroVid from '../assets/dogestyle.mp4';
+import heroVid from '../assets/dogestylevid.mp4';
 
 const Hero = () => {
   return (
