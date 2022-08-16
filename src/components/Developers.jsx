@@ -8,7 +8,7 @@ const Developers = () => {
         <div>
           <h1>Decentralized Platform</h1>
           <p>
-           $DSTYLE or DOGE STYLE is fully decentralized and owned by its fun and amazing community on DOGE CHAIN.
+           The DOGE STYLE is a DOGECHAIN token that will bring our community both $$$ and memes. Our goal is to establish ourselves as a top-tier meme coin that will break the blockchain's meta. Additionally, this will mark the launch of the utilities for various memes and projects on Doge Chain.
           </p><br />
           <p>Buy:
             <ul>
