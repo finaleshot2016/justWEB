@@ -3,12 +3,12 @@ import terminal from '../assets/dogestyle2.png'
 
 const Developers = () => {
   return (
-    <div id="tokenomics" className='w-full text-black bg-[#FFCBC4]'>
+    <div id="tokenomics" className='w-full text-white bg-[#FFCBC4]'>
       <div className='max-w-[1240px] mx-auto px-4 py-16 md:flex'>
         <div>
           <h1>Decentralized Platform</h1>
           <p>
-           $JP or Jirussic Park is fully decentralized and owned by its fun and amazing community on Binance Smart Chain with rewards in BUSD for holding $JP.
+           $DSTYLE or DOGE STYLE is fully decentralized and owned by its fun and amazing community on DOGE CHAIN.
           </p><br />
           <p>Buy:
             <ul>
