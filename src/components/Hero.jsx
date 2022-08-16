@@ -19,8 +19,8 @@ const Hero = () => {
 <br />Additionally, this will mark the launch of the utilities for various memes and projects on Doge Chain.<br /> This would be the ideal position for you to have.
         </p>
         <div>
-          <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="https://pancakeswap.finance/swap?outputCurrency=0x7afbb79C338528841FaD4Fba93e45dcEaB7aa1dB">Buy</a></button>
-          <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="https://poocoin.app/tokens/0x7afbb79c338528841fad4fba93e45dceab7aa1db">Chart</a></button>
+          <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="/">Buy</a></button>
+          <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="/">Chart</a></button>
         </div>
       </div>
       <div>
