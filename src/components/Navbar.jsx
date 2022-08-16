@@ -8,7 +8,7 @@ const Navbar = () => {
     }
 
   return (
-    <div className='w-full h-[90px] bg-[#FFCBC4]'>
+    <div className='w-full h-[90px] bg-[#cb0561]'>
       <div className='max-w-[1240px] mx-auto px-4 flex justify-between items-center h-full'>
         <div>
           <h1 className='text-black'><a href="/">DOGE STYLE</a></h1>
@@ -18,9 +18,9 @@ const Navbar = () => {
             <li><a href="#about">About</a></li>
             <li><a href="#roadmap">Road Map</a></li>
             <li><a href="#tokenomics">Tokenomics</a></li>
-            <li><a href="https://t.me/JirussicParkPortal">Telegram</a></li>
-            <li><a href="https://twitter.com/JirussicParkBSC">Twitter</a></li>
-            <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="https://pancakeswap.finance/swap?outputCurrency=0x7afbb79C338528841FaD4Fba93e45dcEaB7aa1dB">Buy on Pancakeswap</a></button>
+            <li><a href="https://t.me/">Telegram</a></li>
+            <li><a href="https://twitter.com/">Twitter</a></li>
+            <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="">Buy on Pancakeswap</a></button>
           </ul>
          </div>
 
