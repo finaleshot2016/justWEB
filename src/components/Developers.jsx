@@ -3,7 +3,7 @@ import terminal from '../assets/dogestyle2.png'
 
 const Developers = () => {
   return (
-    <div id="tokenomics" className='w-full text-white bg-[#FFCBC4]'>
+    <div id="tokenomics" className='w-full text-white bg-[#cb0561]'>
       <div className='max-w-[1240px] mx-auto px-4 py-16 md:flex'>
         <div>
           <h1>Decentralized Platform</h1>
