@@ -14,8 +14,8 @@ const Hero = () => {
       />
       <div id="about" className='w-full h-[90%] flex flex-col justify-center items-center text-white px-4 text-center'>
 <br /><br />
-        <p className='text-xl mt-52 py-10 text-black'>
-        Jirussic Park is a community-focused, decentralized memecoin on Binance Smart Chain with rewards in BUSD for holding $JP
+        <p className='text-xl mt-52 py-10 text-white'>
+        $DSTYLE or DOGE STYLE is fully decentralized and owned by its fun and amazing community on DOGE CHAIN
         </p>
         <div>
           <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="https://pancakeswap.finance/swap?outputCurrency=0x7afbb79C338528841FaD4Fba93e45dcEaB7aa1dB">Buy</a></button>
