@@ -11,7 +11,7 @@ const Navbar = () => {
     <div className='w-full h-[90px] bg-[#FFCBC4]'>
       <div className='max-w-[1240px] mx-auto px-4 flex justify-between items-center h-full'>
         <div>
-          <h1 className='text-black'><a href="/">JIRUSSIC PARK</a></h1>
+          <h1 className='text-black'><a href="/">DOGE STYLE</a></h1>
         </div>
         <div className='hidden md:flex'>
           <ul className='flex text-black items-center'>
