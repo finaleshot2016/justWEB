@@ -20,7 +20,7 @@ const Navbar = () => {
             <li><a href="#tokenomics">Tokenomics</a></li>
             <li><a href="https://t.me/">Telegram</a></li>
             <li><a href="https://twitter.com/">Twitter</a></li>
-            <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="/">Buy on Uniswap</a></button>
+            <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="/">Buy on Dogeswap</a></button>
           </ul>
          </div>
 
