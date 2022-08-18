@@ -12,12 +12,14 @@ const Developers = () => {
           </p><br />
           <p>Buy:
             <ul>
-  <li>2% - Marketing</li><li>1% - Reflection</li><li>3% - LP</li></ul>
+  <li>5% - Marketing</li>
+  <li>2% - Dev</li>
+  <li>1% - LP</li>
             Sell:
             <ul>
-  <li>9% - Marketing</li>
-  <li>3% - Reflection</li>
-  <li>3% - LP</li>
+  <li>5% - Marketing</li>
+  <li>2% - Dev</li>
+  <li>1% - LP</li>
   </ul></p>
 
         </div>
