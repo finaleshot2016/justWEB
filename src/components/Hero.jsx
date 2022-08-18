@@ -14,7 +14,7 @@ const Hero = () => {
       />
       <div id="about" className='w-full h-[90%] flex flex-col justify-center items-center text-white px-4 text-center'>
 <br /><br />
-        <p className='text-xl mt-52 py-10 text-white'>
+        <p className='text-xl mt-52 py-10 text-white'><br /><br /><br />
         The DOGE STYLE is a DOGECHAIN token that will bring our community both $$$ and memes. Our goal is to establish ourselves as a top-tier meme coin that will break the blockchain's meta. 
 <br />Additionally, this will mark the launch of the utilities for various memes and projects on Doge Chain.<br /> This would be the ideal position for you to have.
         </p>
