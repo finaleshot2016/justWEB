@@ -14,7 +14,7 @@ const Developers = () => {
             <ul>
   <li>5% - Marketing</li>
   <li>2% - Dev</li>
-  <li>1% - LP</li>
+  <li>1% - LP</li></ul>
             Sell:
             <ul>
   <li>5% - Marketing</li>
