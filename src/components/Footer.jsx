@@ -21,7 +21,6 @@ Copyright © 2022 JUST APE
         </p>
 
         </div>
-    </div>
   )
 }
 
