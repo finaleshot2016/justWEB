@@ -20,11 +20,6 @@ const Footer = () => {
 Copyright © 2022 JUST APE
         </p>
 
-                <h3 className='font-bold text-xl'><a href="https://t.me/THEDOGESTYLE_DC">Telegram</a></h3>
-            </div>
-            <div>
-                <h3 className='font-bold text-xl'><a href="www.twitter.com/THEDOGESTYLE">Twitter</a></h3>
-            </div>
         </div>
     </div>
   )
