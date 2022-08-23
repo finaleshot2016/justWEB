@@ -1,24 +1,19 @@
 import React from 'react';
-import terminal from '../assets/jirussicpark.png'
+import terminal from '../assets/jape.png'
 
 const Developers = () => {
   return (
-    <div id="tokenomics" className='w-full text-black bg-[#FFCBC4]'>
+    <div id="tokenomics" className='w-full text-white bg-[#000000]'>
       <div className='max-w-[1240px] mx-auto px-4 py-16 md:flex'>
         <div>
-          <h1>Decentralized Platform</h1>
-          <p>
-           $JP or Jirussic Park is fully decentralized and owned by its fun and amazing community on Binance Smart Chain with rewards in BUSD for holding $JP.
+          <h1>JUST APE</h1>
+          <p className='text-md'><br /><br /><br /><br /><br />
+A dev with a goal to open the eyes of everyone that evolution fucked every inch of humanity. <br /><br />
+A dev with no greed that is willing to give more to the community and not just larp. <br /><br />
+A dev with a vision to give every investors an opportunity to turn their life around. <br /><br />
+A dev that does not think just ape, to show that a project is so good, investors dont need to DYOR.<br /><br />
           </p><br />
-          <p>Buy:
-            <ul>
-  <li>2% - Marketing</li><li>1% - Reflection</li><li>3% - LP</li></ul>
-            Sell:
-            <ul>
-  <li>9% - Marketing</li>
-  <li>3% - Reflection</li>
-  <li>3% - LP</li>
-  </ul></p>
+
 
         </div>
         <div className='flex justify-center w-full py-2'>

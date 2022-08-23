@@ -1,5 +1,7 @@
 import React, {useState} from 'react';
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai';
+import terminal from '../assets/JAPE2.png'
+
 
 const Navbar = () => {
     const [nav, setNav] = useState(false)
@@ -8,19 +10,19 @@ const Navbar = () => {
     }
 
   return (
-    <div className='w-full h-[90px] bg-[#FFCBC4]'>
+    <div className='w-full h-[90px] bg-[#000000]'>
       <div className='max-w-[1240px] mx-auto px-4 flex justify-between items-center h-full'>
-        <div>
-          <h1 className='text-black'><a href="/">JIRUSSIC PARK</a></h1>
+        <div className='items-left'>
+        <img className='max-w-[450px]' src={terminal} alt="/" />
         </div>
         <div className='hidden md:flex'>
-          <ul className='flex text-black items-center'>
+          <ul className='flex text-white items-center'>
             <li><a href="#about">About</a></li>
             <li><a href="#roadmap">Road Map</a></li>
-            <li><a href="#tokenomics">Tokenomics</a></li>
-            <li><a href="">Telegram</a></li>
-            <li><a href="https://twitter.com/JirussicParkBSC">Twitter</a></li>
-            <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'>Buy on Pancakeswap</button>
+            <li><a href="https://medium.com/@AncientMonke">Medium</a></li>
+            <li><a href="/">Telegram</a></li>
+            <li><a href="https://twitter.com/">Twitter</a></li>
+            <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="/">Buy on Uniswap</a></button>
           </ul>
          </div>
 
