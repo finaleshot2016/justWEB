@@ -12,11 +12,11 @@ const About = () => {
           <div className='grid sm:grid-cols-2 lg:grid-cols-4 gap-4'>
 
             {/* Card */}
-<<<<<<< HEAD
+
             <AboutCard heading='Phase 1' text='Contract Deployment, Uniswap Listing, Marketing Campaign & 200 Holders' />
-=======
+
             <AboutCard heading='Phase 1' text='Contract Deployment, Dogeswap Listing, Marketing Campaign & 200 Holders' />
->>>>>>> 4eba0e75502138b64dc6936526263f4b9ca96001
+
             <AboutCard heading='Phase 2' text='Website Live, More Marketing Campaign, CMC and CG Listing & 500 Holders.' />
             <AboutCard heading='Phase 3' text='Website Upgrade, CEX Listing, Dashboard, Whitepaper, More Marketing Campaign & 1,000 Holders.' />
             <AboutCard heading='Phase 4' text='Usecase Reveal & 5,000 Holders.' />
