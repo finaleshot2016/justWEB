@@ -22,8 +22,8 @@ const Hero = () => {
 
         </p>
         <div>
-          <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="https://app.uniswap.org/#/swap?outputCurrency=0xe1955423dceeb48d1d446ed5cbf732b04b90c6f2 target="_blank" rel="noopener noreferrer">Buy</a></button>
-          <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="https://dexscreener.com/ethereum/0xe1955423dceeb48d1d446ed5cbf732b04b90c6f2 target="_blank" rel="noopener noreferrer">Chart</a></button>
+          <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="https://app.uniswap.org/#/swap?outputCurrency=0xe1955423dceeb48d1d446ed5cbf732b04b90c6f2" target="_blank" rel="noopener noreferrer">Buy</a></button>
+          <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="https://dexscreener.com/ethereum/0xe1955423dceeb48d1d446ed5cbf732b04b90c6f2" target="_blank" rel="noopener noreferrer">Chart</a></button>
         </div>
       </div>
     </div>
