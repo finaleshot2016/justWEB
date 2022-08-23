@@ -9,11 +9,11 @@ const Footer = () => {
         <div className='flex justify-center grid-rows-1 w-full py-2'>
             <div>
 
-            <a href="https://twitter.com/JustApeEth"><img className='max-w-[100px]' src={terminal} alt="https://twitter.com/" /></a>
+            <a href="https://twitter.com/JustApeEth" target="_blank" rel="noopener noreferrer"><img className='max-w-[100px]' src={terminal} alt="https://twitter.com/" /></a>
 
             <a href="/"><img className='max-w-[100px]' src={terminal1} alt="/" /></a>
 
-            <a href="https://medium.com/@AncientMonke"><img className='max-w-[100px]' src={terminal2} alt="/" /></a>
+            <a href="https://medium.com/@AncientMonke" target="_blank" rel="noopener noreferrer"><img className='max-w-[100px]' src={terminal2} alt="/" /></a>
             </div>
         </div> 
  <p className='text-xl text-center mt-5 py-10 text-white'>
