@@ -4,10 +4,6 @@ import Developers from './components/Developers';
 import Footer from './components/Footer';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
-<<<<<<< HEAD
-=======
-
->>>>>>> 4eba0e75502138b64dc6936526263f4b9ca96001
 
 function App() {
   return (
