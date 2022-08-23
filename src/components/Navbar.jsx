@@ -22,7 +22,7 @@ const Navbar = () => {
             <li><a href="#roadmap">Road Map</a></li>
             <li><a href="https://medium.com/@AncientMonke">Medium</a></li>
             <li><a href="/">Telegram</a></li>
-            <li><a href="https://twitter.com/JustApeEth">Twitter</a></li>
+            <li><a href="https://twitter.com/JustApeEth" target="_blank">Twitter</a></li>
             <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="/">Buy on Uniswap</a></button>
           </ul>
          </div>
