@@ -14,7 +14,7 @@ const Navbar = () => {
     <div className='w-full h-[90px] bg-[#000000]'>
       <div className='max-w-[1240px] mx-auto px-4 flex justify-between items-center h-full'>
         <div className='items-left'>
-        <img className='max-w-[450px]' src={terminal} alt="/" />
+        <a href="/"><img className='max-w-[450px]' src={terminal} alt="/" /></a>
         </div>
         <div className='hidden md:flex'>
           <ul className='flex text-white items-center'>
