@@ -21,7 +21,7 @@ const Navbar = () => {
             <li><a href="#about">About</a></li>
             <li><a href="#roadmap">Road Map</a></li>
             <li><a href="https://medium.com/@AncientMonke" target="_blank" rel="noopener noreferrer">Medium</a></li>
-            <li><a href="/">Telegram</a></li>
+            <li><a href="https://t.me/JustApeERC" target="_blank" rel="noopener noreferrer">Telegram</a></li>
             <li><a href="https://twitter.com/JustApeEth" target="_blank" rel="noopener noreferrer">Twitter</a></li>
             <button className='m-2 bg-white hover:bg-pink-700 text-black font-bold py-2 px-4 rounded'><a href="https://app.uniswap.org/#/swap?outputCurrency=0xe1955423dceeb48d1d446ed5cbf732b04b90c6f2&chain=mainnet" target="_blank" rel="noopener noreferrer">Buy on Uniswap</a></button>
           </ul>
