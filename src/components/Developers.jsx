@@ -11,7 +11,7 @@ const Developers = () => {
 A dev with a goal to open the eyes of everyone that evolution fucked every inch of humanity. <br /><br />
 A dev with no greed that is willing to give more to the community and not just larp. <br /><br />
 A dev with a vision to give every investors an opportunity to turn their life around. <br /><br />
-A dev that does not think just ape, to show that a project is so good, investors dont need to DYOR.<br /><br />
+A dev that does not think just ape, to show that a project is so good. Stop evolution, return to monkey. Dont think, Just Ape<br /><br />
           </p><br />
         </div>
         <div className='flex justify-center w-full py-2'>
